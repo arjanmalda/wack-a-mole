@@ -23,6 +23,7 @@
   "homepage": "https://github.com/arjanmalda/Wack-a-mole#readme",
   "dependencies": {
     "express": "^4.17.2",
+    "heroku": "^7.59.2",
     "nedb": "^1.8.0"
   }
 }

@@ -12,7 +12,7 @@ app.listen(port, () => console.log(`Listening on ${port}...`));
 
 const database = new Datastore('database.db');
 database.loadDatabase();
-
+// this is a test
 
 
 // find highscore data in database and send to client
